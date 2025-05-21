@@ -1,6 +1,5 @@
 use zen_class_programme;
 
-
 db.users.insertMany([
   { _id: 1, name: "Pavithran", email: "pavi@example.com" },
   { _id: 2, name: "Vijay", email: "vijay@example.com" },
